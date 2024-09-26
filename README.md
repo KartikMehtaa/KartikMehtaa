@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KartikMehtaa
-- 👀 I’m interested in technology, coding, and graphic design.
+- 👀 I’m interested in Technology and Coding.
 - 🌱 I’m currently learning Python and diving into java projects.
 - 💞️ I’m looking to collaborate on student-led projects, hackathons, or any creative tech initiatives.
 - 📫 How to reach me: km2637651@gmail.com or connect with me on LinkedIn:kartikmehta.
