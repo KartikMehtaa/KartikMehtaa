@@ -17,7 +17,7 @@
 - 🐧 Strong foundation in **Linux system administration** and **server management**  
 - 🎯 Goal: To become a **DevOps Engineer** who automates everything!  
 - 📫 Reach me: **[km2637651@gmail.com](mailto:km2637651@gmail.com)**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kartikmehta) | [GitHub](https://github.com/kartikmehta)
+- 💼 [LinkedIn](https//www.linkedin.com/in/kartik-mehta-86364325a) | [GitHub](https://github.com/KartikMehtaa)
 
 ---
 
@@ -65,25 +65,25 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikmehta&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmehta&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikMehtaa&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikMehtaa&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikmehta&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikMehtaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartikmehta" target="_blank">
-    <img src="https://img.shields.io/badge/-Kartik%20Mehta-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/KartikMehtaa" target="_blank">
+    <img src="https://img.shields.io/badge/-Kartik%20Mehtaa-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:km2637651@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/kartikmehta">
+  <a href="https://github.com/KartikMehtaa">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
