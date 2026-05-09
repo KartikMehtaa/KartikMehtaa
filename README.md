@@ -17,7 +17,7 @@
 - 🐧 Strong foundation in **Linux system administration** and **server management**  
 - 🎯 Goal: To become a **DevOps Engineer** who automates everything!  
 - 📫 Reach me: **[km2637651@gmail.com](mailto:km2637651@gmail.com)**  
-- 💼 [LinkedIn](https//www.linkedin.com/in/kartik-mehta-86364325a) | [GitHub](https://github.com/KartikMehtaa)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kartik-mehta-86364325a) | [GitHub](https://github.com/KartikMehtaa)
 
 ---
 
